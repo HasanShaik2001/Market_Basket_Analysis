@@ -2,10 +2,12 @@
 
 ### Project Overview
 
-This project aims to provide the performance of the airports in United Kingdoms over the past 10 years. By analysing various aspects of data we seek to identify trends, make data-driven decisions and get deep understanding of the performance of different airports in UK
+* The aim of this project is to improve the sales of retailers by better understanding of customer purchasing patterns.
+* this involves analysing large data sets such as purchase history to reveal the product groupings , as well as the products likely to be purchased together.
+* By analysing various aspects of data we seek to identify trends, make data-driven decisions and get deep understanding of customer purchasing patterns in stores.
 
 ### Data Sources
-Airport Data :- The primary data file used for this analysis is named as " Airport_ Data " . This file contains the detaled information about the airports in UK.
+Basket Data :- The primary data file used for this analysis is named as " Basket_ Data " . This file contains the detaled information about the analysis we have done.
 
 ### Tools Used
 Jupyter Notebook [ Data Cleaning] 
