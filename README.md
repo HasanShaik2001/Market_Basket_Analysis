@@ -10,8 +10,8 @@
 Basket Data :- The primary data file used for this analysis is named as " Basket_ Data " . This file contains the detaled information about the analysis we have done.
 
 ### Tools Used
-Jupyter Notebook [ Data Cleaning] 
-Power Bi [ Dashboard ]
+-Jupyter Notebook [ Data Cleaning] 
+-Power Bi [ Dashboard ]
 
 ### Data Cleaning / Preparation
 In the intial data cleaning phase we performed the following tasks :-
