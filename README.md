@@ -15,7 +15,6 @@ Basket Data :- The primary data file used for this analysis is named as " Basket
 
 ### Data Cleaning / Preparation
 In the intial data cleaning phase we performed the following tasks :-
-
 1.Data Loading and Inspection 
 2.Handling out missing values 
 3.Formatting data & Data Cleaning
