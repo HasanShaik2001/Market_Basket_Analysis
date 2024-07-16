@@ -3,7 +3,7 @@
 ### Project Overview
 
 * The aim of this project is to improve the sales of retailers by better understanding of customer purchasing patterns.
-* this involves analysing large data sets such as purchase history to reveal the product groupings , as well as the products likely to be purchased together.
+* This involves analysing large data sets such as purchase history to reveal the product groupings , as well as the products likely to be purchased together.
 * By analysing various aspects of data we seek to identify trends, make data-driven decisions and get deep understanding of customer purchasing patterns in stores.
 
 ### Data Sources
