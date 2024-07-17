@@ -22,3 +22,6 @@ In the intial data cleaning phase we performed the following tasks :-
 
 ### Results & Findings
 
+* In this analysis , we have found the top 20 items purchased by customers in every month of the year and as expected coffe , tea, bread tops the list.
+* The maximum no.of products were sold in timings 9:00 am - 6:00 pm on Saturday followed by Sunday as these are weekends and customers tend to shop in these two days.
+* Through the help of appriori algorithm and complex analysis we have came to conclusion that maximum number of the customers were likely in purchasing milk and vegetables together. If we place these items side by side we can increase sales and profit of the store.
