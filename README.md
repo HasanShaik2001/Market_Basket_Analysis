@@ -7,7 +7,7 @@
 * By analysing various aspects of data we seek to identify trends, make data-driven decisions and get deep understanding of customer purchasing patterns in stores.
 
 ### Data Sources
-Basket Data :- The primary data file used for this analysis is named as " Basket_ Data " . This file contains the detaled information about the analysis we have done.
+Bread basket :- The primary data file used for this analysis is named as " bread basket " . This file contains the detaled information about the analysis we have done.
 
 ### Tools Used
 - Jupyter Notebook [ Data Cleaning] 
